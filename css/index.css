@@ -182,12 +182,12 @@ address ~ p {
     border-bottom: 1px solid black;
   }
 
-  .section-1 {
+  /* .section-1 {
     display: inline-block;
     padding-bottom: 50px;
     padding-right: 30%;
     margin-bottom: 30px;
-  }
+  } */
 
   .section-1__heading {
     padding-left: 10%;
