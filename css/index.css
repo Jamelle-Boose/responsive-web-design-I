@@ -219,7 +219,11 @@ address ~ p {
   }
 
   .img-mid {
-    max-width: 105%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 3%;
   }
 
   .section-3 {
