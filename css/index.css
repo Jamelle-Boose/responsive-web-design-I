@@ -403,8 +403,9 @@ footer {
 
   section div button {
     display: flex;
-    margin-top: 10px;
-    margin-left: 15%;
+    /* /* margin-top: 10px; */
+    margin-left: 7%;
+    /* margin: 0 auto; */
     background-color: white;
     color: black;
     border-color: grey;
@@ -423,5 +424,6 @@ footer {
 
   address ~ p {
     text-align: center;
-    margin-top: 1%
+    margin-top: 1%;
   }
+}
